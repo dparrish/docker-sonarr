@@ -1,240 +1,417 @@
-adduser3.118ubuntu2
-apt2.0.9
-apt-transport-https2.0.9
-apt-utils2.0.9
-base-files11ubuntu5.5
-base-passwd3.5.47
-bash5.0-6ubuntu1.1
-binutils2.34-6ubuntu1.3
-binutils-common2.34-6ubuntu1.3
-binutils-x86-64-linux-gnu2.34-6ubuntu1.3
-bsdutils1:2.34-0.1ubuntu9.3
-bzip21.0.8-2
-ca-certificates20211016~20.04.1
-ca-certificates-mono6.12.0.182-0xamarin1+ubuntu2004b1
-coreutils8.30-3ubuntu2
-curl7.68.0-1ubuntu2.14
-dash0.5.10.2-6
-debconf1.5.73
-debianutils4.9.1
-diffutils1:3.7-3
-dirmngr2.2.19-3ubuntu2.2
-dpkg1.19.7ubuntu3
-e2fsprogs1.45.5-2ubuntu1
-fdisk2.34-0.1ubuntu9.3
-findutils4.7.0-1ubuntu1
-fontconfig-config2.13.1-2ubuntu3
-fonts-dejavu-core2.37-1
-gcc-10-base10.3.0-1ubuntu1~20.04
-gnupg2.2.19-3ubuntu2.2
-gnupg-l10n2.2.19-3ubuntu2.2
-gnupg-utils2.2.19-3ubuntu2.2
-gpg2.2.19-3ubuntu2.2
-gpg-agent2.2.19-3ubuntu2.2
-gpgconf2.2.19-3ubuntu2.2
-gpgsm2.2.19-3ubuntu2.2
-gpgv2.2.19-3ubuntu2.2
-gpg-wks-client2.2.19-3ubuntu2.2
-gpg-wks-server2.2.19-3ubuntu2.2
-grep3.4-1
-gzip1.10-0ubuntu4
-hostname3.23
-init-system-helpers1.57
-jq1.6-1ubuntu0.20.04.1
-krb5-locales1.17-6ubuntu4.1
-libacl12.2.53-6
-libapt-pkg6.02.0.9
-libasn1-8-heimdal7.7.0+dfsg-1ubuntu1.1
-libassuan02.5.3-7ubuntu2
-libattr11:2.4.48-5
-libaudit11:2.8.5-2ubuntu6
-libaudit-common1:2.8.5-2ubuntu6
-libbinutils2.34-6ubuntu1.3
-libblkid12.34-0.1ubuntu9.3
-libbrotli11.0.7-6ubuntu0.1
-libbsd00.10.0-1
-libbz2-1.01.0.8-2
-libc62.31-0ubuntu9.7
-libcairo21.16.0-4ubuntu1
-libcap-ng00.7.9-2.1build1
-libc-bin2.31-0ubuntu9.7
-libcom-err21.45.5-2ubuntu1
-libcrypt11:4.4.10-10ubuntu4
-libctf02.34-6ubuntu1.3
-libctf-nobfd02.34-6ubuntu1.3
-libcurl3-gnutls7.68.0-1ubuntu2.14
-libcurl47.68.0-1ubuntu2.14
-libcurl4-openssl-dev7.68.0-1ubuntu2.14
-libdb5.35.3.28+dfsg1-0.6ubuntu2
-libdebconfclient00.251ubuntu1
-libexif120.6.21-6ubuntu0.4
-libexpat12.2.9-1ubuntu0.4
-libext2fs21.45.5-2ubuntu1
-libfdisk12.34-0.1ubuntu9.3
-libffi73.3-4
-libfontconfig12.13.1-2ubuntu3
-libfreetype62.10.1-2ubuntu0.2
-libgcc-s110.3.0-1ubuntu1~20.04
-libgcrypt201.8.5-5ubuntu1.1
-libgdiplus6.0.5-0xamarin1+ubuntu2004b1
-libgif75.1.9-1
-libglib2.0-02.64.6-1~ubuntu20.04.4
-libgmp102:6.2.0+dfsg-4
-libgnutls303.6.13-2ubuntu1.6
-libgpg-error01.37-1
-libgssapi3-heimdal7.7.0+dfsg-1ubuntu1.1
-libgssapi-krb5-21.17-6ubuntu4.1
-libhcrypto4-heimdal7.7.0+dfsg-1ubuntu1.1
-libheimbase1-heimdal7.7.0+dfsg-1ubuntu1.1
-libheimntlm0-heimdal7.7.0+dfsg-1ubuntu1.1
-libhogweed53.5.1+really3.5.1-2ubuntu0.2
-libhx509-5-heimdal7.7.0+dfsg-1ubuntu1.1
-libidn2-02.2.0-2
-libjbig02.1-3.1build1
-libjpeg88c-2ubuntu8
-libjpeg-turbo82.0.3-0ubuntu1.20.04.3
-libjq11.6-1ubuntu0.20.04.1
-libk5crypto31.17-6ubuntu4.1
-libkeyutils11.6-6ubuntu1.1
-libkrb5-26-heimdal7.7.0+dfsg-1ubuntu1.1
-libkrb5-31.17-6ubuntu4.1
-libkrb5support01.17-6ubuntu4.1
-libksba81.3.5-2ubuntu0.20.04.1
-libldap-2.4-22.4.49+dfsg-2ubuntu1.9
-libldap-common2.4.49+dfsg-2ubuntu1.9
-liblz4-11.9.2-2ubuntu0.20.04.1
-liblzma55.2.4-1ubuntu1
-libmediainfo0v522.09-1
-libmms00.6.4-3
-libmono-accessibility4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-cecil-vb0.9-cil4.7-0xamarin3+ubuntu2004b1
-libmono-corlib4.5-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-i18n4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-i18n-west4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-ldap4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-messaging4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-microsoft-csharp4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-microsoft-visualbasic10.0-cil4.7-0xamarin3+ubuntu2004b1
-libmono-posix4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-security4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-sqlite4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-componentmodel-dataannotations4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-configuration4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-configuration-install4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-core4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-data4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-data-datasetextensions4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-design4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-drawing4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-drawing-design4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-enterpriseservices4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-identitymodel4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-identitymodel-selectors4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-io-compression4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-ldap4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-messaging4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-net-http4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-numerics4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-runtime-serialization4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-runtime-serialization-formatters-soap4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-security4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-servicemodel4.0a-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-servicemodel-activation4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-servicemodel-internals0.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-serviceprocess4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-transactions4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-web4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-web-applicationservices4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-web-services4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-windows-forms4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-xml4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-system-xml-linq4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmono-webbrowser4.0-cil6.12.0.182-0xamarin1+ubuntu2004b1
-libmount12.34-0.1ubuntu9.3
-libncurses66.2-0ubuntu2
-libncursesw66.2-0ubuntu2
-libnettle73.5.1+really3.5.1-2ubuntu0.2
-libnghttp2-141.40.0-1build1
-libnpth01.6-1
-libonig56.9.4-1
-libp11-kit00.23.20-1ubuntu0.1
-libpam0g1.3.1-5ubuntu4.3
-libpam-modules1.3.1-5ubuntu4.3
-libpam-modules-bin1.3.1-5ubuntu4.3
-libpam-runtime1.3.1-5ubuntu4.3
-libpcre2-8-010.34-7
-libpcre32:8.39-12build1
-libpixman-1-00.38.4-0ubuntu1
-libpng16-161.6.37-2
-libprocps82:3.3.16-1ubuntu2.3
-libpsl50.21.0-1ubuntu1
-libreadline88.0-4
-libroken18-heimdal7.7.0+dfsg-1ubuntu1.1
-librtmp12.4+20151223.gitfa8646d.1-2build1
-libsasl2-22.1.27+dfsg-2ubuntu0.1
-libsasl2-modules2.1.27+dfsg-2ubuntu0.1
-libsasl2-modules-db2.1.27+dfsg-2ubuntu0.1
-libseccomp22.5.1-1ubuntu1~20.04.2
-libselinux13.0-1build2
-libsemanage13.0-1build2
-libsemanage-common3.0-1build2
-libsepol13.0-1
-libsmartcols12.34-0.1ubuntu9.3
-libsqlite3-03.31.1-4ubuntu0.4
-libss21.45.5-2ubuntu1
-libssh-40.9.3-2ubuntu2.2
-libssl1.11.1.1f-1ubuntu2.16
-libstdc++610.3.0-1ubuntu1~20.04
-libsystemd0245.4-4ubuntu3.15
-libtasn1-64.16.0-2
-libtiff54.1.0+git191117-2ubuntu0.20.04.5
-libtinfo66.2-0ubuntu2
-libudev1245.4-4ubuntu3.15
-libunistring20.9.10-2
-libuuid12.34-0.1ubuntu9.3
-libwebp60.6.1-2ubuntu0.20.04.1
-libwind0-heimdal7.7.0+dfsg-1ubuntu1.1
-libx11-62:1.6.9-2ubuntu1.2
-libx11-data2:1.6.9-2ubuntu1.2
-libxau61:1.0.9-0ubuntu1
-libxcb11.14-2
-libxcb-render01.14-2
-libxcb-shm01.14-2
-libxdmcp61:1.1.3-0ubuntu1
-libxext62:1.3.4-0ubuntu1
-libxrender11:0.9.10-1
-libzen0v50.4.39-1
-libzstd11.4.4+dfsg-3ubuntu0.1
-locales2.31-0ubuntu9.9
-login1:4.8.1-1ubuntu5.20.04.1
-logsave1.45.5-2ubuntu1
-lsb-base11.1.0ubuntu2
-mawk1.3.4.20200120-2
-mediainfo22.09-1
-mono-4.0-gac6.12.0.182-0xamarin1+ubuntu2004b1
-mono-gac6.12.0.182-0xamarin1+ubuntu2004b1
-mono-runtime6.12.0.182-0xamarin1+ubuntu2004b1
-mono-runtime-common6.12.0.182-0xamarin1+ubuntu2004b1
-mono-runtime-sgen6.12.0.182-0xamarin1+ubuntu2004b1
-mono-vbnc4.7-0xamarin3+ubuntu2004b1
-mount2.34-0.1ubuntu9.3
-ncurses-base6.2-0ubuntu2
-ncurses-bin6.2-0ubuntu2
-openssl1.1.1f-1ubuntu2.16
-passwd1:4.8.1-1ubuntu5.20.04.1
-perl-base5.30.0-9ubuntu0.2
-pinentry-curses1.1.0-3build1
-procps2:3.3.16-1ubuntu2.3
-publicsuffix20200303.0012-1
-readline-common8.0-4
-repo-mediaarea1.0-12
-sed4.7-1
-sensible-utils0.0.12+nmu1
-sysvinit-utils2.96-2.1ubuntu1
-tar1.30+dfsg-7ubuntu0.20.04.2
-tzdata2022e-0ubuntu0.20.04.0
-ubuntu-keyring2020.02.11.4
-ucf3.0038+nmu1
-util-linux2.34-0.1ubuntu9.3
-zlib1g1:1.2.11.dfsg-2ubuntu1.2
+NAME                                                        VERSION                                                     TYPE                     
+BouncyCastle.NET                                            2.4.0.33771                                                 dotnet                    
+Dapper                                                      2.0.123.33578                                               dotnet                    
+Diacritical                                                 1.0.4.0                                                     dotnet                    
+DryIoc                                                      5.4.3.0                                                     dotnet                    
+DryIoc.Microsoft.DependencyInjection net6.0                 6.2.0.0                                                     dotnet                    
+Dynamitey                                                   2.0.9.136                                                   dotnet                    
+Equ                                                         2.3.0                                                       dotnet                    
+FFMpegCore                                                  4.0.0.0                                                     dotnet                    
+FluentMigrator                                              3.3.2.9                                                     dotnet  (+19 duplicates)  
+FluentValidation                                            9.5.4.0                                                     dotnet                    
+Harmony                                                     2.3.3.0+395749ff507ab4e2cd4f84cf99085ec18f6870bc            dotnet                    
+ICSharpCode.SharpZipLib                                     1.4.2.13                                                    dotnet                    
+IPAddressRange                                              6.1.0.0                                                     dotnet                    
+Ical.Net                                                    4.3.1+5889b14d90ccd3cd32b54229029dab52495a09b0              dotnet                    
+ImpromptuInterface                                          7.0.1.0                                                     dotnet                    
+Instances                                                   1.0.0.0                                                     dotnet                    
+Json.NET                                                    13.0.3.27908                                                dotnet                    
+MailKit                                                     4.8.0.0                                                     dotnet                    
+Microsoft.AspNetCore                                        6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Antiforgery                            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Authentication                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Authentication.Abstractions            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Authentication.Cookies                 6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Authentication.Core                    6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Authentication.OAuth                   6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Authorization                          6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Authorization.Policy                   6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Components                             6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Components.Authorization               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Components.Forms                       6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Components.Server                      6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Components.Web                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Connections.Abstractions               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.CookiePolicy                           6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Cors                                   6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Cryptography.Internal                  6.0.2123.36438                                              dotnet                    
+Microsoft.AspNetCore.Cryptography.KeyDerivation             6.0.2123.36438                                              dotnet                    
+Microsoft.AspNetCore.DataProtection                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.DataProtection.Abstractions            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.DataProtection.Extensions              6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Diagnostics                            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Diagnostics.Abstractions               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Diagnostics.HealthChecks               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.HostFiltering                          6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Hosting                                6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Hosting.Abstractions                   6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Hosting.Server.Abstractions            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Html.Abstractions                      6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Http                                   6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Http.Abstractions                      6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Http.Connections                       6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Http.Connections.Common                6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Http.Extensions                        6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Http.Features                          6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Http.Results                           6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.HttpLogging                            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.HttpOverrides                          6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.HttpsPolicy                            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Identity                               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Localization                           6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Localization.Routing                   6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Metadata                               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc                                    6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.Abstractions                       6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.ApiExplorer                        6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.Core                               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.Cors                               6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.DataAnnotations                    6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.Formatters.Json                    6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.Formatters.Xml                     6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.Localization                       6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.Razor                              6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.RazorPages                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.TagHelpers                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Mvc.ViewFeatures                       6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Owin                                   6.0.2123.36438                                              dotnet                    
+Microsoft.AspNetCore.Razor                                  6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Razor.Runtime                          6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.ResponseCaching                        6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.ResponseCaching.Abstractions           6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.ResponseCompression                    6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Rewrite                                6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Routing                                6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Routing.Abstractions                   6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Server.HttpSys                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Server.IIS                             6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Server.IISIntegration                  6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Server.Kestrel                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Server.Kestrel.Core                    6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Server.Kestrel.Transport.Quic          6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets       6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.Session                                6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.SignalR                                6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.SignalR.Common                         6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.SignalR.Core                           6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.SignalR.Protocols.Json                 6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.StaticFiles                            6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.WebSockets                             6.0.1322.58013                                              dotnet                    
+Microsoft.AspNetCore.WebUtilities                           6.0.1322.58013                                              dotnet                    
+Microsoft.Bcl.AsyncInterfaces                               6.0.21.52210                                                dotnet                    
+Microsoft.Bcl.TimeProvider                                  8.0.23.53103                                                dotnet                    
+Microsoft.CSharp                                            6.0.1322.58009                                              dotnet                    
+Microsoft.Data.SqlClient                                    2.1.7+730a7d538680463c75dd8dceec5fb27d158abea4              dotnet                    
+Microsoft.Extensions.Caching.Abstractions                   6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Caching.Memory                         6.0.222.6406                                                dotnet                    
+Microsoft.Extensions.Configuration                          6.0.322.12309                                               dotnet                    
+Microsoft.Extensions.Configuration.Abstractions             6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Configuration.Binder                   6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Configuration.CommandLine              6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Configuration.EnvironmentVariables     6.0.222.6406                                                dotnet                    
+Microsoft.Extensions.Configuration.FileExtensions           6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Configuration.Ini                      6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Configuration.Json                     6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Configuration.KeyPerFile               6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Configuration.UserSecrets              6.0.222.6406                                                dotnet                    
+Microsoft.Extensions.Configuration.Xml                      6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.DependencyInjection                    6.0.1022.47605                                              dotnet                    
+Microsoft.Extensions.DependencyInjection.Abstractions       7.0.22.51805                                                dotnet                    
+Microsoft.Extensions.Diagnostics.HealthChecks               6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions  6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Features                               6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.FileProviders.Abstractions             6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.FileProviders.Composite                6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.FileProviders.Embedded                 6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.FileProviders.Physical                 6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.FileSystemGlobbing                     6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Hosting                                6.0.222.6406                                                dotnet                    
+Microsoft.Extensions.Hosting.Abstractions                   6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Hosting.WindowsServices                6.0.1823.26907                                              dotnet                    
+Microsoft.Extensions.Http                                   6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Identity.Core                          6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Identity.Stores                        6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Localization                           6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Localization.Abstractions              6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Logging                                6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Logging.Abstractions                   6.0.1122.52304                                              dotnet                    
+Microsoft.Extensions.Logging.Configuration                  6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Logging.Console                        6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Logging.Debug                          6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Logging.EventLog                       6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Logging.EventSource                    6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Logging.TraceSource                    6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.ObjectPool                             6.0.1322.58013                                              dotnet                    
+Microsoft.Extensions.Options                                6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Options.ConfigurationExtensions        6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Options.DataAnnotations                6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.Primitives                             6.0.21.52210                                                dotnet                    
+Microsoft.Extensions.WebEncoders                            6.0.1322.58013                                              dotnet                    
+Microsoft.Identity.Client                                   4.21.1.0                                                    dotnet                    
+Microsoft.IdentityModel.JsonWebTokens                       6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0  dotnet                    
+Microsoft.IdentityModel.Logging                             6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0  dotnet                    
+Microsoft.IdentityModel.Protocols                           6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0  dotnet                    
+Microsoft.IdentityModel.Protocols.OpenIdConnect             6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0  dotnet                    
+Microsoft.IdentityModel.Tokens                              6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0  dotnet                    
+Microsoft.JSInterop                                         6.0.1322.58013                                              dotnet                    
+Microsoft.Net.Http.Headers                                  6.0.1322.58013                                              dotnet                    
+Microsoft.OpenApi                                           1.6.14.0                                                    dotnet                    
+Microsoft.VisualBasic                                       6.0.1322.58009                                              dotnet                    
+Microsoft.VisualBasic.Core                                  11.100.1322.58009                                           dotnet                    
+Microsoft.Win32.Primitives                                  6.0.1322.58009                                              dotnet                    
+Microsoft.Win32.Registry                                    6.0.1322.58009                                              dotnet                    
+Microsoft.Win32.SystemEvents                                6.0.21.52210                                                dotnet                    
+MimeKit                                                     4.8.0.0                                                     dotnet                    
+Mono.Nat                                                    3.0.1                                                       dotnet                    
+Mono.Posix.NETStandard                                      1.0.0.0                                                     dotnet                    
+MonoTorrent                                                 2.0.7                                                       dotnet                    
+NLog v5.3.4                                                 5.3.4.2778                                                  dotnet                    
+NLog.Extensions.Logging v5.3.15                             5.3.15.614                                                  dotnet                    
+NLog.Layouts.ClefJsonLayout                                 1.0.2.0                                                     dotnet                    
+NLog.Targets.Syslog                                         7.0.0.0                                                     dotnet                    
+NodaTime                                                    3.2.0.0                                                     dotnet                    
+Npgsql                                                      7.0.9.0                                                     dotnet                    
+Polly                                                       8.5.0.4130                                                  dotnet                    
+Polly.Contrib.WaitAndRetry                                  1.1.1.0+7596d2dacf22d88bbd814bc49c28424fb6e921e9            dotnet                    
+Polly.Core                                                  8.5.0.4130                                                  dotnet                    
+ReusableTasks                                               2.0.0                                                       dotnet                    
+Sentry                                                      4.0.2.0                                                     dotnet                    
+SixLabors.ImageSharp                                        3.1.6.0                                                     dotnet                    
+Sonarr                                                      4.0.12.2823                                                 dotnet  (+8 duplicates)   
+Swashbuckle.AspNetCore.Annotations                          6.6.2.401                                                   dotnet                    
+Swashbuckle.AspNetCore.Swagger                              6.6.2.401                                                   dotnet                    
+Swashbuckle.AspNetCore.SwaggerGen                           6.6.2.401                                                   dotnet                    
+System                                                      6.0.1322.58009                                              dotnet                    
+System.AppContext                                           6.0.1322.58009                                              dotnet                    
+System.Buffers                                              6.0.1322.58009                                              dotnet                    
+System.Collections                                          6.0.1322.58009                                              dotnet                    
+System.Collections.Concurrent                               6.0.1322.58009                                              dotnet                    
+System.Collections.Immutable                                6.0.1322.58009                                              dotnet                    
+System.Collections.NonGeneric                               6.0.1322.58009                                              dotnet                    
+System.Collections.Specialized                              6.0.1322.58009                                              dotnet                    
+System.ComponentModel                                       6.0.1322.58009                                              dotnet                    
+System.ComponentModel.Annotations                           6.0.1322.58009                                              dotnet                    
+System.ComponentModel.DataAnnotations                       6.0.1322.58009                                              dotnet                    
+System.ComponentModel.EventBasedAsync                       6.0.1322.58009                                              dotnet                    
+System.ComponentModel.Primitives                            6.0.1322.58009                                              dotnet                    
+System.ComponentModel.TypeConverter                         6.0.1322.58009                                              dotnet                    
+System.Configuration                                        6.0.1322.58009                                              dotnet                    
+System.Configuration.ConfigurationManager                   6.0.922.41905                                               dotnet                    
+System.Console                                              6.0.1322.58009                                              dotnet                    
+System.Core                                                 6.0.1322.58009                                              dotnet                    
+System.Data                                                 6.0.1322.58009                                              dotnet                    
+System.Data.Common                                          6.0.1322.58009                                              dotnet                    
+System.Data.DataSetExtensions                               6.0.1322.58009                                              dotnet                    
+System.Data.SQLite                                          1.0.115.5                                                   dotnet                    
+System.Data.SqlServerCe                                     4.0.8876.1                                                  dotnet                    
+System.Diagnostics.Contracts                                6.0.1322.58009                                              dotnet                    
+System.Diagnostics.Debug                                    6.0.1322.58009                                              dotnet                    
+System.Diagnostics.DiagnosticSource                         6.0.1322.58009                                              dotnet                    
+System.Diagnostics.EventLog                                 6.0.21.52210                                                dotnet                    
+System.Diagnostics.FileVersionInfo                          6.0.1322.58009                                              dotnet                    
+System.Diagnostics.Process                                  6.0.1322.58009                                              dotnet                    
+System.Diagnostics.StackTrace                               6.0.1322.58009                                              dotnet                    
+System.Diagnostics.TextWriterTraceListener                  6.0.1322.58009                                              dotnet                    
+System.Diagnostics.Tools                                    6.0.1322.58009                                              dotnet                    
+System.Diagnostics.TraceSource                              6.0.1322.58009                                              dotnet                    
+System.Diagnostics.Tracing                                  6.0.1322.58009                                              dotnet                    
+System.Drawing                                              6.0.1322.58009                                              dotnet                    
+System.Drawing.Common                                       6.0.21.52210                                                dotnet                    
+System.Drawing.Primitives                                   6.0.1322.58009                                              dotnet                    
+System.Dynamic.Runtime                                      6.0.1322.58009                                              dotnet                    
+System.Formats.Asn1                                         8.0.724.31311                                               dotnet                    
+System.Globalization                                        6.0.1322.58009                                              dotnet                    
+System.Globalization.Calendars                              6.0.1322.58009                                              dotnet                    
+System.Globalization.Extensions                             6.0.1322.58009                                              dotnet                    
+System.IO                                                   6.0.1322.58009                                              dotnet                    
+System.IO.Compression                                       6.0.1322.58009                                              dotnet                    
+System.IO.Compression.Brotli                                6.0.1322.58009                                              dotnet                    
+System.IO.Compression.FileSystem                            6.0.1322.58009                                              dotnet                    
+System.IO.Compression.ZipFile                               6.0.1322.58009                                              dotnet                    
+System.IO.FileSystem                                        6.0.1322.58009                                              dotnet                    
+System.IO.FileSystem.AccessControl                          6.0.1322.58009                                              dotnet                    
+System.IO.FileSystem.DriveInfo                              6.0.1322.58009                                              dotnet                    
+System.IO.FileSystem.Primitives                             6.0.1322.58009                                              dotnet                    
+System.IO.FileSystem.Watcher                                6.0.1322.58009                                              dotnet                    
+System.IO.IsolatedStorage                                   6.0.1322.58009                                              dotnet                    
+System.IO.MemoryMappedFiles                                 6.0.1322.58009                                              dotnet                    
+System.IO.Pipelines                                         6.0.522.21309                                               dotnet                    
+System.IO.Pipes                                             6.0.1322.58009                                              dotnet                    
+System.IO.Pipes.AccessControl                               6.0.1322.58009                                              dotnet                    
+System.IO.UnmanagedMemoryStream                             6.0.1322.58009                                              dotnet                    
+System.IdentityModel.Tokens.Jwt                             6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0  dotnet                    
+System.Linq                                                 6.0.1322.58009                                              dotnet                    
+System.Linq.Expressions                                     6.0.1322.58009                                              dotnet                    
+System.Linq.Parallel                                        6.0.1322.58009                                              dotnet                    
+System.Linq.Queryable                                       6.0.1322.58009                                              dotnet                    
+System.Memory                                               6.0.1322.58009                                              dotnet                    
+System.Net                                                  6.0.1322.58009                                              dotnet                    
+System.Net.Http                                             6.0.1322.58009                                              dotnet                    
+System.Net.Http.Json                                        6.0.1322.58009                                              dotnet                    
+System.Net.HttpListener                                     6.0.1322.58009                                              dotnet                    
+System.Net.Mail                                             6.0.1322.58009                                              dotnet                    
+System.Net.NameResolution                                   6.0.1322.58009                                              dotnet                    
+System.Net.NetworkInformation                               6.0.1322.58009                                              dotnet                    
+System.Net.Ping                                             6.0.1322.58009                                              dotnet                    
+System.Net.Primitives                                       6.0.1322.58009                                              dotnet                    
+System.Net.Quic                                             6.0.1322.58009                                              dotnet                    
+System.Net.Requests                                         6.0.1322.58009                                              dotnet                    
+System.Net.Security                                         6.0.1322.58009                                              dotnet                    
+System.Net.ServicePoint                                     6.0.1322.58009                                              dotnet                    
+System.Net.Sockets                                          6.0.1322.58009                                              dotnet                    
+System.Net.WebClient                                        6.0.1322.58009                                              dotnet                    
+System.Net.WebHeaderCollection                              6.0.1322.58009                                              dotnet                    
+System.Net.WebProxy                                         6.0.1322.58009                                              dotnet                    
+System.Net.WebSockets                                       6.0.1322.58009                                              dotnet                    
+System.Net.WebSockets.Client                                6.0.1322.58009                                              dotnet                    
+System.Numerics                                             6.0.1322.58009                                              dotnet                    
+System.Numerics.Vectors                                     6.0.1322.58009                                              dotnet                    
+System.ObjectModel                                          6.0.1322.58009                                              dotnet                    
+System.Private.CoreLib                                      6.0.1322.58009                                              dotnet                    
+System.Private.DataContractSerialization                    6.0.1322.58009                                              dotnet                    
+System.Private.Uri                                          6.0.1322.58009                                              dotnet                    
+System.Private.Xml                                          6.0.1322.58009                                              dotnet                    
+System.Private.Xml.Linq                                     6.0.1322.58009                                              dotnet                    
+System.Reflection                                           6.0.1322.58009                                              dotnet                    
+System.Reflection.DispatchProxy                             6.0.1322.58009                                              dotnet                    
+System.Reflection.Emit                                      6.0.1322.58009                                              dotnet                    
+System.Reflection.Emit.ILGeneration                         6.0.1322.58009                                              dotnet                    
+System.Reflection.Emit.Lightweight                          6.0.1322.58009                                              dotnet                    
+System.Reflection.Extensions                                6.0.1322.58009                                              dotnet                    
+System.Reflection.Metadata                                  6.0.1322.58009                                              dotnet                    
+System.Reflection.Primitives                                6.0.1322.58009                                              dotnet                    
+System.Reflection.TypeExtensions                            6.0.1322.58009                                              dotnet                    
+System.Resources.Reader                                     6.0.1322.58009                                              dotnet                    
+System.Resources.ResourceManager                            6.0.1322.58009                                              dotnet                    
+System.Resources.Writer                                     6.0.1322.58009                                              dotnet                    
+System.Runtime                                              6.0.1322.58009                                              dotnet                    
+System.Runtime.Caching                                      4.700.19.56404                                              dotnet                    
+System.Runtime.CompilerServices.VisualC                     6.0.1322.58009                                              dotnet                    
+System.Runtime.Extensions                                   6.0.1322.58009                                              dotnet                    
+System.Runtime.Handles                                      6.0.1322.58009                                              dotnet                    
+System.Runtime.InteropServices                              6.0.1322.58009                                              dotnet                    
+System.Runtime.InteropServices.RuntimeInformation           6.0.1322.58009                                              dotnet                    
+System.Runtime.Intrinsics                                   6.0.1322.58009                                              dotnet                    
+System.Runtime.Loader                                       6.0.1322.58009                                              dotnet                    
+System.Runtime.Numerics                                     6.0.1322.58009                                              dotnet                    
+System.Runtime.Serialization                                6.0.1322.58009                                              dotnet                    
+System.Runtime.Serialization.Formatters                     6.0.1322.58009                                              dotnet                    
+System.Runtime.Serialization.Json                           6.0.1322.58009                                              dotnet                    
+System.Runtime.Serialization.Primitives                     6.0.1322.58009                                              dotnet                    
+System.Runtime.Serialization.Xml                            6.0.1322.58009                                              dotnet                    
+System.Security                                             6.0.1322.58009                                              dotnet                    
+System.Security.AccessControl                               6.0.1322.58009                                              dotnet                    
+System.Security.Claims                                      6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.Algorithms                     6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.Cng                            6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.Csp                            6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.Encoding                       6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.OpenSsl                        6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.Pkcs                           8.0.23.53103                                                dotnet                    
+System.Security.Cryptography.Primitives                     6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.ProtectedData                  6.0.21.52210                                                dotnet                    
+System.Security.Cryptography.X509Certificates               6.0.1322.58009                                              dotnet                    
+System.Security.Cryptography.Xml                            6.0.822.36306                                               dotnet                    
+System.Security.Permissions                                 6.0.21.52210                                                dotnet                    
+System.Security.Principal                                   6.0.1322.58009                                              dotnet                    
+System.Security.Principal.Windows                           6.0.1322.58009                                              dotnet                    
+System.Security.SecureString                                6.0.1322.58009                                              dotnet                    
+System.ServiceModel.Web                                     6.0.1322.58009                                              dotnet                    
+System.ServiceProcess                                       6.0.1322.58009                                              dotnet                    
+System.ServiceProcess.ServiceController                     6.0.1823.26907                                              dotnet                    
+System.Text.Encoding                                        6.0.1322.58009                                              dotnet                    
+System.Text.Encoding.CodePages                              6.0.1322.58009                                              dotnet                    
+System.Text.Encoding.Extensions                             6.0.1322.58009                                              dotnet                    
+System.Text.Encodings.Web                                   6.0.1322.58009                                              dotnet                    
+System.Text.Json                                            6.0.3524.45918                                              dotnet                    
+System.Text.RegularExpressions                              6.0.1322.58009                                              dotnet                    
+System.Threading                                            6.0.1322.58009                                              dotnet                    
+System.Threading.Channels                                   6.0.1322.58009                                              dotnet                    
+System.Threading.Overlapped                                 6.0.1322.58009                                              dotnet                    
+System.Threading.Tasks                                      6.0.1322.58009                                              dotnet                    
+System.Threading.Tasks.Dataflow                             6.0.1322.58009                                              dotnet                    
+System.Threading.Tasks.Extensions                           6.0.1322.58009                                              dotnet                    
+System.Threading.Tasks.Parallel                             6.0.1322.58009                                              dotnet                    
+System.Threading.Thread                                     6.0.1322.58009                                              dotnet                    
+System.Threading.ThreadPool                                 6.0.1322.58009                                              dotnet                    
+System.Threading.Timer                                      6.0.1322.58009                                              dotnet                    
+System.Transactions                                         6.0.1322.58009                                              dotnet                    
+System.Transactions.Local                                   6.0.1322.58009                                              dotnet                    
+System.ValueTuple                                           6.0.1322.58009                                              dotnet                    
+System.Web                                                  6.0.1322.58009                                              dotnet                    
+System.Web.HttpUtility                                      6.0.1322.58009                                              dotnet                    
+System.Windows                                              6.0.1322.58009                                              dotnet                    
+System.Windows.Extensions                                   6.0.21.52210                                                dotnet                    
+System.Xml                                                  6.0.1322.58009                                              dotnet                    
+System.Xml.Linq                                             6.0.1322.58009                                              dotnet                    
+System.Xml.ReaderWriter                                     6.0.1322.58009                                              dotnet                    
+System.Xml.Serialization                                    6.0.1322.58009                                              dotnet                    
+System.Xml.XDocument                                        6.0.1322.58009                                              dotnet                    
+System.Xml.XPath                                            6.0.1322.58009                                              dotnet                    
+System.Xml.XPath.XDocument                                  6.0.1322.58009                                              dotnet                    
+System.Xml.XmlDocument                                      6.0.1322.58009                                              dotnet                    
+System.Xml.XmlSerializer                                    6.0.1322.58009                                              dotnet                    
+WindowsBase                                                 6.0.1322.58009                                              dotnet                    
+acl-libs                                                    2.3.2-r1                                                    apk                       
+alpine-baselayout                                           3.6.8-r1                                                    apk                       
+alpine-baselayout-data                                      3.6.8-r1                                                    apk                       
+alpine-keys                                                 2.5-r0                                                      apk                       
+alpine-release                                              3.21.2-r0                                                   apk                       
+apk-tools                                                   2.14.6-r2                                                   apk                       
+bash                                                        5.2.37-r0                                                   apk                       
+brotli-libs                                                 1.1.0-r2                                                    apk                       
+busybox                                                     1.37.0-r9                                                   apk                       
+busybox-binsh                                               1.37.0-r9                                                   apk                       
+c-ares                                                      1.34.3-r0                                                   apk                       
+ca-certificates                                             20241121-r1                                                 apk                       
+ca-certificates-bundle                                      20241121-r1                                                 apk                       
+catatonit                                                   0.2.0-r0                                                    apk                       
+coreutils                                                   9.5-r2                                                      apk                       
+coreutils-env                                               9.5-r2                                                      apk                       
+coreutils-fmt                                               9.5-r2                                                      apk                       
+coreutils-sha512sum                                         9.5-r2                                                      apk                       
+curl                                                        8.11.1-r0                                                   apk                       
+findutils                                                   4.10.0-r0                                                   apk                       
+icu-data-en                                                 74.2-r0                                                     apk                       
+icu-libs                                                    74.2-r0                                                     apk                       
+jq                                                          1.7.1-r0                                                    apk                       
+libattr                                                     2.5.2-r2                                                    apk                       
+libbsd                                                      0.12.2-r0                                                   apk                       
+libcrypto3                                                  3.3.2-r4                                                    apk                       
+libcurl                                                     8.11.1-r0                                                   apk                       
+libgcc                                                      14.2.0-r4                                                   apk                       
+libgcrypt                                                   1.10.3-r1                                                   apk                       
+libgpg-error                                                1.51-r0                                                     apk                       
+libidn2                                                     2.3.7-r0                                                    apk                       
+libintl                                                     0.22.5-r0                                                   apk                       
+libmd                                                       1.1.0-r0                                                    apk                       
+libncursesw                                                 6.5_p20241006-r3                                            apk                       
+libproc2                                                    4.0.4-r2                                                    apk                       
+libpsl                                                      0.21.5-r3                                                   apk                       
+libssl3                                                     3.3.2-r4                                                    apk                       
+libstdc++                                                   14.2.0-r4                                                   apk                       
+libunistring                                                1.2-r0                                                      apk                       
+libxml2                                                     2.13.4-r3                                                   apk                       
+libxslt                                                     1.1.42-r1                                                   apk                       
+linux-pam                                                   1.6.1-r1                                                    apk                       
+mscorlib                                                    6.0.1322.58009                                              dotnet                    
+musl                                                        1.2.5-r8                                                    apk                       
+musl-utils                                                  1.2.5-r8                                                    apk                       
+ncurses-terminfo-base                                       6.5_p20241006-r3                                            apk                       
+netcat-openbsd                                              1.226.1.1-r0                                                apk                       
+netstandard                                                 6.0.1322.58009                                              dotnet                    
+nghttp2-libs                                                1.64.0-r0                                                   apk                       
+oniguruma                                                   6.9.9-r0                                                    apk                       
+procps-ng                                                   4.0.4-r2                                                    apk                       
+readline                                                    8.2.13-r0                                                   apk                       
+scanelf                                                     1.3.8-r1                                                    apk                       
+shadow                                                      4.16.0-r1                                                   apk                       
+skalibs-libs                                                2.14.3.0-r0                                                 apk                       
+sqlite-libs                                                 3.47.1-r0                                                   apk                       
+ssl_client                                                  1.37.0-r9                                                   apk                       
+tzdata                                                      2024b-r1                                                    apk                       
+utmps-libs                                                  0.1.2.3-r2                                                  apk                       
+xmlstarlet                                                  1.6.1-r2                                                    apk                       
+xz-libs                                                     5.6.3-r0                                                    apk                       
+zlib                                                        1.3.1-r2                                                    apk                       
+zstd-libs                                                   1.5.6-r2                                                    apk                       
